@@ -1,1 +1,0 @@
-// sys32hello.c
